@@ -1,4 +1,4 @@
-# WebbShared.com
+# MyWebb.net
 
 This repository is used to share PowerShell scripts shared on MyWebb.net
 
